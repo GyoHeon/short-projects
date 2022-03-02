@@ -8,9 +8,9 @@ Ex short projects collection
             ```json
             { 
             	"name": string,
-            // 종목명
+                // 종목명
             	"stockCode": number
-            // 종목단축코드
+                // 종목단축코드
             }
             ```
             
@@ -19,11 +19,11 @@ Ex short projects collection
             ```json
             {
             	"symbol": string,
-            // 종목명
+                // 종목명
             	"companyName": string,
-            // 기업이름
+                // 기업이름
             	"marketType": string
-            // 거래소 정보
+                // 거래소 정보
             }
             ```
             
